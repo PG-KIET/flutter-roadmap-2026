@@ -1,11 +1,10 @@
-# 🚀 LỘ TRÌNH FLUTTER 12 TUẦN – MỤC TIÊU CÓ VIỆC LÀM
+# 🚀 LỘ TRÌNH FLUTTER 
 
-## 📌 Thông tin cá nhân
+## 📌 Thông tin
 
 - Ngày bắt đầu: __________________________
-- Ngày kết thúc dự kiến (12 tuần): __________________________
-- Thời gian học mỗi ngày: 2–4 tiếng (sau ca sáng)
-- Mục tiêu: Đủ năng lực apply Flutter Junior
+- Thời gian học mỗi ngày: 2–4 tiếng 
+- Mục tiêu: Tạo được dự án cá nhân
 
 ---
 
